@@ -1,3 +1,13 @@
+<a name="1.5.0-rc.0"></a>
+# [1.5.0-rc.0](https://github.com/spinnaker/deck/compare/v1.4.0-rc.0...v1.5.0-rc.0) (2016-12-28)
+
+
+### Bug Fixes
+
+* **BULLETS:** Differentiated bullets. ([dd8e477](https://github.com/spinnaker/deck/commit/dd8e477))
+
+
+
 <a name="1.4.0-rc.0"></a>
 # [1.4.0-rc.0](https://github.com/spinnaker/deck/compare/v1.3.0...v1.4.0-rc.0) (2016-12-28)
 
