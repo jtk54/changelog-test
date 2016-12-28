@@ -4,7 +4,7 @@
 
 ### Features
 
-* **yoyo:** Added prose. ([dd61478](https://github.com/spinnaker/deck/commit/dd61478))
+* **yoyo:** Added prose. ([3c114ed](https://github.com/spinnaker/deck/commit/3c114ed))
 
 
 
