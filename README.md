@@ -13,3 +13,6 @@ Important information in prose format.
 * Woo! bullets.
 * Woo! bullets.
 * Different bullets.
+
+Heading 2
+---------
