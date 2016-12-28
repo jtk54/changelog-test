@@ -1,3 +1,13 @@
+<a name="1.4.0-rc.0"></a>
+# [1.4.0-rc.0](https://github.com/spinnaker/deck/compare/v1.3.0...v1.4.0-rc.0) (2016-12-28)
+
+
+### Bug Fixes
+
+* **BULLETS:** Too many bullets. ([df0446e](https://github.com/spinnaker/deck/commit/df0446e))
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/spinnaker/deck/compare/v1.2.0...v1.3.0) (2016-12-28)
 
