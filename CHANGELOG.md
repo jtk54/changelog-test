@@ -1,3 +1,18 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/spinnaker/deck/compare/v1.2.0...v1.3.0) (2016-12-28)
+
+
+### Bug Fixes
+
+* **package.json:** Seeing what we actually need. ([1e23ef4](https://github.com/spinnaker/deck/commit/1e23ef4))
+
+
+### Features
+
+* **README:** Crucial bullets. ([027d619](https://github.com/spinnaker/deck/commit/027d619))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/spinnaker/deck/compare/v1.1.0...v1.2.0) (2016-12-28)
 
