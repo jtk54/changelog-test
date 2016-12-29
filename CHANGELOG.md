@@ -1,3 +1,13 @@
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/spinnaker/deck/compare/v1.5.0-spinnaker...v1.6.0) (2016-12-28)
+
+
+### Bug Fixes
+
+* **HEADING:** Heading 2 fix. ([e01cb7a](https://github.com/spinnaker/deck/commit/e01cb7a))
+
+
+
 <a name="1.5.0-rc.0"></a>
 # [1.5.0-rc.0](https://github.com/spinnaker/deck/compare/v1.4.0-rc.0...v1.5.0-rc.0) (2016-12-28)
 
