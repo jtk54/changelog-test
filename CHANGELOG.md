@@ -1,3 +1,18 @@
+<a name="1.6.0-rc.0"></a>
+# [1.6.0-rc.0](http://%27%27/compare/v1.5.0-spinnaker...v1.6.0-rc.0) (2016-12-29)
+
+
+### Bug Fixes
+
+* **HEADING:** Heading 2 fix. ([e01cb7a](http://%27%27/commits/e01cb7a))
+
+
+### Features
+
+* **package.json:** new minimal package.json. ([a4715fe](http://%27%27/commits/a4715fe))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/spinnaker/deck/compare/v1.5.0-spinnaker...v1.6.0) (2016-12-28)
 

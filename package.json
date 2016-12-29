@@ -1,6 +1,6 @@
 {
   "name": "changelog",
-  "version": "1.6.0",
+  "version": "1.6.0-rc.0",
   "description": "test project for changelogs",
   "main": "''",
   "scripts": {
