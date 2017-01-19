@@ -39,3 +39,21 @@ Dependencies, Notes and Issues
 * Can use `git show-ref --tags` and filter to grab relevant commits only.
 * Can label a changelog with an arbitrary version. Doesn't require package.json or anything.
 * Very useful and flexible command line tool. Uses git metadata only, not github.
+
+Notes on k8s relnotes script [ ]
+============================
+
+Using relnotes
+--------------
+
+* Sample usage: https://github.com/kubernetes/release#release-notes-gathering.
+* PR body described here: https://github.com/kubernetes/release/blob/master/relnotes#L133.
+* PRs must be labeled with "release-note" label to be picked up.
+
+Dependencies, Notes and Issues
+------------------------------
+
+* Requires a github token. Token must be passed in as an environment variable or flag argument.
+* Requires jq and pandoc.
+* Heavily tailored for Kubernetes. Currently no modularity for using this tool on other non-k8s repos. We'd have to fork this and change it to our needs. Doable but seems like a lot of work where there are alternative tools.
+* Couldn't actually run against the test repository -- that's how tailored this is to Kubernetes.
