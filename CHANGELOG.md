@@ -1,3 +1,23 @@
+<a name="1.2.0-72"></a>
+## 1.2.0-72 (2017-02-23)
+
+
+#### Features
+
+* **README:**  Crucial bullets. ([027d6190](https://github.com/jtk54/changelog-test/commit/027d6190e66e957594bf4f924986a74dfd73c3cf))
+* **package.json:**  new minimal package.json. ([a4715fee](https://github.com/jtk54/changelog-test/commit/a4715feee1281f593b7c17e2e10d9309869c79be))
+
+#### Bug Fixes
+
+* **BULLETS:**
+  *  Differentiated bullets. ([dd8e477a](https://github.com/jtk54/changelog-test/commit/dd8e477a31235f141132f81f34cd039f1a8d08b9))
+  *  Too many bullets. ([df0446e9](https://github.com/jtk54/changelog-test/commit/df0446e9effef13fabe1f56fbf44b1275b0e8b4d))
+* **HEADING:**  Heading 2 fix. ([e01cb7a8](https://github.com/jtk54/changelog-test/commit/e01cb7a824e20debbd098b14f4510e6ba7635b03))
+* **README:**  Added things. (#1) ([e5773e64](https://github.com/jtk54/changelog-test/commit/e5773e6489902799e9760df5c69d29e0f7e3894e))
+* **package.json:**  Seeing what we actually need. ([1e23ef47](https://github.com/jtk54/changelog-test/commit/1e23ef47614ee2063d55a8d33a568d92fa21381a))
+
+
+
 <a name="1.6.0-rc.0"></a>
 # [1.6.0-rc.0](http://%27%27/compare/v1.5.0-spinnaker...v1.6.0-rc.0) (2016-12-29)
 
